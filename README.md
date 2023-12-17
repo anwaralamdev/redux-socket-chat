@@ -64,7 +64,7 @@ The main objective of this project is to develop a chat application that allows 
 
 To set up and run the application:
 
-1.  Clone the repository:  `git clone https://github.com/your-repo-link`
+1.  Clone the repository:  `git clone https://github.com/redux-socket-chat`
 2.  Navigate into the directory:  `cd your-repo-name`
 3.  Install the dependencies:  `npm install`
 4.  Start the server:  `npm start-server`
